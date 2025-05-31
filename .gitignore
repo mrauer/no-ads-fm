@@ -1,0 +1,13 @@
+# Audio files
+*.aac
+*.mp3
+*.wav
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+
+# macOS system file
+.DS_Store
